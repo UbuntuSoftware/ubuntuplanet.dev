@@ -5,18 +5,32 @@
 <br>
 
 
-# TODO
+## TODO
 *what needs to be done, listed in order of priority*
 
-- Collaborate with the dev team & Michael to confirm a workable gui layout.
-- We need to make the `ubuntuplanet.dev` repo on GitHub *private* (MichaelT.)
+- Collaborate with Michael.T (& dev team) to confirm a workable gui. (Charl)
+- We need to make the `ubuntuplanet.dev` repo on GitHub *private* (Michael.T)
 
 -----------------------------------------------------------------------
 <br>
 
 
-# Introduction
+## Synopsis
+The current `ubuntuplanet.org` web-site's front-end (& back-end) needs a serious upgrade.
 
+#### Back-end
+HARDWARE: We need a strong (dedicated) server on which to host `ubuntuplanet.org` with parallel-processing (multi-threading) & virtualization capabilities, hosted in a secure data-center. This is not too grand and will not cost too much at all, but is necessary for future development.
+
+SOFTWARE: We need to use what our developers are skilled in.<br>
+- LAMP ? .: (Linux Apache MySQL PHP)
+- :: any suggestions welcome ::
+<br><br>
+
+
+#### Front-end
+HARDWARE: We need to make this site mobile-friendly.
+
+SOFTWARE: This site/apps MUST be compatible with the most popular web browsers & platforms, desktop including; JavaScript detection with graceful-fail is mandatory -- tell the end-user JS is required.
 
 -----------------------------------------------------------------------
 <br>

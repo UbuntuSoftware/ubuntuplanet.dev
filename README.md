@@ -11,7 +11,7 @@ This is the official software repository for the `ubuntuplanet.org` web-site fro
 
 
 ## Installation
-Just clone the master branch (or download & extract) this repo and have your web-server run a virtual-host configured with its `web-root` folder-path pointed the `www` folder in this cloned repo.
+Just clone the master branch (or download & extract) this repo and have your web-server run a virtual-host configured with its `web-root` folder-path pointing at the `www` folder in this cloned repo on your target server-host file-system.
 <br><br>
 
 
