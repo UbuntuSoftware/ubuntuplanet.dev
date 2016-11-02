@@ -6,12 +6,12 @@
 
 
 ## Glossary
-This is the official software repository for the `ubuntuplanet.org` web-site from/to which all relative material can be acquired and contributed by the collaborators involved according to their skill and roles defined in the "./doc/planning.md" document.
+This is the official software repository for the `ubuntuplanet.org` web-site from/to which all relative material can be acquired and contributed by the collaborators involved according to their skill and roles defined in the "./doc/roadmap.md" document.
 <br><br>
 
 
 ## Installation
-Just clone the master branch (or download & extract) of this repo and paste the `www` folder contents into your `docroot` (web root) of the designated web server you are using.
+Just clone the master branch (or download & extract) this repo and have your web-server run a virtual-host configured with its `web-root` folder-path pointed the `www` folder in this cloned repo.
 <br><br>
 
 
