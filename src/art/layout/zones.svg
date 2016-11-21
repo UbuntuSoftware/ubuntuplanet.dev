@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="large_wide.svg">
+   sodipodi:docname="zones.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.53033009"
-     inkscape:cx="1145.5441"
+     inkscape:cx="782.79495"
      inkscape:cy="606.15987"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -38,12 +38,7 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true">
-    <sodipodi:guide
-       position="957.89404,567.57104"
-       orientation="1,0"
-       id="guide4209" />
-  </sodipodi:namedview>
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>

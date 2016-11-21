@@ -84,6 +84,7 @@ td
 .DropMenuItem:hover
 {
    color:#FFFFFF;
+   text-decoration:underline;
 }
 
 .DropMenuButnCell
